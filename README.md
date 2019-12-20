@@ -7,6 +7,10 @@ Find the two placeholder texts labeled DESCRIPTION PLACEHOLDER and FEATURES PLAC
     A GitHub App built with probot that celebrates new user activity within your repository.
 
 
+
+    A GitHub App built with probot that celebrates new user activity within your repository.
+
+
 ## What it does
 
 FEATURES PLACEHOLDER
