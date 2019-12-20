@@ -3,6 +3,10 @@
 DESCRIPTION PLACEHOLDER
 Find the two placeholder texts labeled DESCRIPTION PLACEHOLDER and FEATURES PLACEHOLDER. Replace them with some bulleted information that may be helpful to new users.
 
+
+    A GitHub App built with probot that celebrates new user activity within your repository.
+
+
 ## What it does
 
 FEATURES PLACEHOLDER
