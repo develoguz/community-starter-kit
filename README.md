@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
 DESCRIPTION PLACEHOLDER
+Find the two placeholder texts labeled DESCRIPTION PLACEHOLDER and FEATURES PLACEHOLDER. Replace them with some bulleted information that may be helpful to new users.
 
 ## What it does
 
 FEATURES PLACEHOLDER
+Find the two placeholder texts labeled DESCRIPTION PLACEHOLDER and FEATURES PLACEHOLDER. Replace them with some bulleted information that may be helpful to new users.
 
 ## Getting started
 
